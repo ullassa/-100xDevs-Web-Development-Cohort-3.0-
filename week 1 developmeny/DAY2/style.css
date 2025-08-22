@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(13, 14, 13);
+}
+.top-link{
+    color: blue;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+a{ 
+    color: rgb(145, 6, 6);
+    font-size: large;
+}
